@@ -128,23 +128,12 @@ Thank you for using the Beverage Vending Machine!
 - Practice **upcasting** to simplify the interaction with child objects.
 
 ---
-## About Me
-
-Hi, I’m Ankush Raj Mahe Yam (ARMY), an aspiring software developer currently pursuing Java Full Stack Development. I’m also involved in various business ventures, including a tech-based YouTube channel, a logistics business, and real estate projects.
-
-Connect with me on:
-- **Search on Google:** [Ankush Raj Mahe Yam](https://www.google.com/search?q=ankush+raj+mahe+yam)
-- **LinkedIn:** [Ankush Raj Mahe Yam](https://linkedin.com/in/AnkushRajMaheYam)
-- **GitHub:** [Ankush Raj Mahe Yam](https://github.com/AnkushRajMaheYam)
-- **Instagram:** [@AnkushRajaMaheYam](https://instagram.com/AnkushRajaMaheYam)
-- **Facebook:** [Ankush Raj Mahe Yam](https://facebook.com/AnkushRajMaheYam)
 
 ---
 
 
 ## **Acknowledgements**
 This project was developed as part of a learning exercise to understand Java object-oriented programming concepts. It provides a real-world example of how inheritance, polymorphism, and upcasting can be used in practical applications.
-Special thanks to the mentor([Shambhu Sir](https://www.instagram.com/kumarsam07)) and faculty at **J-Spider Software Training Institute (Noida Branch)** for providing excellent guidance and support throughout the course.
 
 ---
 
