@@ -1,4 +1,4 @@
-# Java Projects: J-Spider Software Training Institute
+# Java Projects: 
 This repository contains a collection of Java programming projects created during my training at the **J-Spider Software Training Institute (Noida Branch)**. These projects were developed by **Tanishq Verma**, also known as **Tanishq Verma**, as part of the learning process.  
 
 Each project focuses on specific aspects of Java, including but not limited to:  
@@ -125,9 +125,7 @@ Connect with me on:
 **License:**  
 This repository is licensed under the MIT License.
 
-
-## **Acknowledgements**
-Special thanks to the mentor([Shambhu Sir](https://www.instagram.com/kumarsam07)) and faculty at **J-Spider Software Training Institute (Noida Branch)** for providing excellent guidance and support throughout the course.
+\
 
 ---
 
