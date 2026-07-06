@@ -171,23 +171,10 @@ Thank you for playing Shape Game!
 
 ---
 
-## About Me
-
-Hi, I’m Ankush Raj  or Ankush Raj Mahe Yam (ARMY), an aspiring software developer currently pursuing Java Full Stack Development. I’m also involved in various business ventures, including a tech-based YouTube channel, a logistics business, and real estate projects.
-
-Connect with me on:
-- **Search on Google:** [Ankush Raj Mahe Yam](https://www.google.com/search?q=ankush+raj+mahe+yam)
-- **LinkedIn:** [Ankush Raj Mahe Yam](https://linkedin.com/in/AnkushRajMaheYam)
-- **GitHub:** [Ankush Raj Mahe Yam](https://github.com/AnkushRajMaheYam)
-- **Instagram:** [@AnkushRajaMaheYam](https://instagram.com/AnkushRajaMaheYam)
-- **Facebook:** [Ankush Raj Mahe Yam](https://facebook.com/AnkushRajMaheYam)
-
----
-
 
 ## **Acknowledgements**
 This project demonstrates core **object-oriented programming (OOP)** principles and the use of **mathematical formulas** in Java programming. It provides a hands-on experience for implementing inheritance, polymorphism, recursion, and constructors in a real-world application.
-Special thanks to the mentor([Shambhu Sir](https://www.instagram.com/kumarsam07)) and faculty at **J-Spider Software Training Institute (Noida Branch)** for providing excellent guidance and support throughout the course.
+
 
 ---
 
